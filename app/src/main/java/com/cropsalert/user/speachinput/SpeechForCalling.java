@@ -80,7 +80,7 @@ public class SpeechForCalling extends ActionBarActivity {
 
 
 
-                    //
+                    //here i now give a comment
                     //txtSpeechInput.setText(result.get(0));
                 }
                 //this ia a comment
